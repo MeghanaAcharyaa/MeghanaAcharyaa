@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Meghana Acharya 👩‍💻</h1>
 
 <p align="center">
-  <b>Full Stack Developer · MERN · Laravel · AI Integration</b><br/>
+  <b>Web Developer · MERN · Laravel · AI Integration</b><br/>
   B.Tech Computer Science · Srinivas University · CGPA 8.53 · Graduating 2026
 </p>
 
