@@ -24,12 +24,10 @@
 
 ## ✨ About Me
 
-- 🎓 Final year CS student with **2 internships** and real shipped projects
+- 🎓 Final year CS student with **2 internships** 
 - 🏢 Currently interning at **Udupi Web Solutions** (Dec 2025 – Jun 2026)
 - 🤖 Built an **AI Chatbot Platform** using Laravel + Gemini API
-- 🌱 Growing my skills in **React.js**, REST APIs, and AI-powered apps
-- 💡 I like building things that actually solve problems — not just tutorial clones
-- 📍 Karnataka, India · Open to **entry-level roles & internships**
+- 📍 Karnataka, India · Open to **entry-level roles**
 
 ---
 
